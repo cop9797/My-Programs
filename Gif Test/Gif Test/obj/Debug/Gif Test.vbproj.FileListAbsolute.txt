@@ -1,0 +1,10 @@
+E:\School\Gif Test\Gif Test\bin\Debug\Gif Test.exe.config
+E:\School\Gif Test\Gif Test\bin\Debug\Gif Test.exe
+E:\School\Gif Test\Gif Test\bin\Debug\Gif Test.pdb
+E:\School\Gif Test\Gif Test\bin\Debug\Gif Test.xml
+E:\School\Gif Test\Gif Test\obj\Debug\Gif_Test.Form1.resources
+E:\School\Gif Test\Gif Test\obj\Debug\Gif_Test.Resources.resources
+E:\School\Gif Test\Gif Test\obj\Debug\Gif Test.vbproj.GenerateResource.Cache
+E:\School\Gif Test\Gif Test\obj\Debug\Gif Test.exe
+E:\School\Gif Test\Gif Test\obj\Debug\Gif Test.xml
+E:\School\Gif Test\Gif Test\obj\Debug\Gif Test.pdb
