@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Fibbinocci sequence.cpp
+  Fibbinocci sequence.vcxproj -> c:\users\bh139-3\documents\visual studio 2015\Projects\Fibbinocci sequence\Debug\Fibbinocci sequence.exe
+  Fibbinocci sequence.vcxproj -> c:\users\bh139-3\documents\visual studio 2015\Projects\Fibbinocci sequence\Debug\Fibbinocci sequence.pdb (Full PDB)
+c:\users\bh139-3\documents\visual studio 2015\projects\fibbinocci sequence\fibbinocci sequence\fibbinocci sequence.cpp(46): warning C6031: Return value ignored: '_getch'.
